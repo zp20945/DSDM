@@ -1,3 +1,5 @@
-This code has been done in local system.
-to run the code you need to download the data from below site and give that downloaded path as mentioned in the code.
-"https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs"
+1) This code has been done in local system.
+2) to run the code you need to download the data from below site and give that downloaded path as mentioned in the code.
+  "https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs"
+3) For classification: download 7(Training) and 8(Test) number of dataset.
+4) For segmentation: download 9(Images) and 10(Masks) number of dataset.
